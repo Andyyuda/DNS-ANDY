@@ -1,6 +1,6 @@
-# DNS-AGN By KHALED AGN ( ENGLISH )
+# DNS-AGN By ANDYYUDA KLMPK ( ENGLISH )
 ```
-* DNS-AGN SLOWDNS SCRIPT
+* DNS-KLMPK SLOWDNS SCRIPT
 ```
 ![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
 
@@ -30,10 +30,10 @@ rm -rf install; apt update; wget https://github.com/khaledagn/SlowDNS/raw/main/i
 
 ## :octocat: Translated and Modded by KHALED AGN
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/khaledagn</li>
- <li>FACEBOOK: https://www.facebook.com/khaledagn.me</li>
- <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
- <li>TWITTER: https://www.instagram.com/khaled_agn</li>
+ <li>TELEGRAM CHANNEL: 
+ <li>FACEBOOK: 
+ <li>INSTAGRAM: 
+ <li>TWITTER: 
  
  </ul>
  
