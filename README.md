@@ -29,7 +29,7 @@ rm -rf install; apt update; wget https://github.com/Andyyuda/DNS-ANDY/raw/main/i
 ```
 
 
-## :octocat: Translated and Modded by KHALED AGN
+## :octocat: Translated and Modded by Andyyuda KLMPK
 <ul>
  <li>TELEGRAM CHANNEL: 
  <li>FACEBOOK: https://web.facebook.com/andizlalumnungu/
