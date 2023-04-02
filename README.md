@@ -31,10 +31,10 @@ rm -rf install; apt update; wget https://github.com/Andyyuda/DNS-ANDY/raw/main/i
 
 ## :octocat: Translated and Modded by Andyyuda KLMPK
 <ul>
- <li>TELEGRAM CHANNEL: 
+ <li>TELEGRAM CHANNEL: @Andyyuda
  <li>FACEBOOK: https://web.facebook.com/andizlalumnungu/
  <li>INSTAGRAM: andyyuda52
- <li>TWITTER: 
+ <li>TWITTER: Andyyuda52
  
  </ul>
  
