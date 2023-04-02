@@ -32,8 +32,8 @@ rm -rf install; apt update; wget https://github.com/Andyyuda/DNS-ANDY/raw/main/i
 ## :octocat: Translated and Modded by KHALED AGN
 <ul>
  <li>TELEGRAM CHANNEL: 
- <li>FACEBOOK: 
- <li>INSTAGRAM: 
+ <li>FACEBOOK: https://web.facebook.com/andizlalumnungu/
+ <li>INSTAGRAM: andyyuda52
  <li>TWITTER: 
  
  </ul>
@@ -41,4 +41,4 @@ rm -rf install; apt update; wget https://github.com/Andyyuda/DNS-ANDY/raw/main/i
 
 ## :octocat: Credits
 
-1. [@LaelsonCG )
+1. [@Andyyuda )
