@@ -2,7 +2,7 @@
 ```
 * DNS-KLMPK SLOWDNS SCRIPT
 ```
-![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
+![logo](https://raw.githubusercontent.com/Andyyuda/DNS-ANDY/main/AGN-DNS.png)
 
 ```
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
